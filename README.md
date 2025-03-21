@@ -2,7 +2,7 @@
 
 
 
-中文 | [English](https://github.com/aaronchenzhihe/SMS_LED/blob/main/README.md)
+中文 | [English](https://github.com/aaronchenzhihe/SMS_LED/blob/main/README%20EN.md)
 
 欢迎来到 QuecPython 短信控灯方案仓库！本仓库提供了一个专注于LED控制及短信通知功能的开源项目，适用于远程控制和状态报告，提升设备管理效率。
 
