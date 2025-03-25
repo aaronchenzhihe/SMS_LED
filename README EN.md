@@ -26,7 +26,7 @@ Welcome to the SMS control led  Solution for QuecPython! This warehouse provides
 
 QuecPython has introduced a remote control method for LED lights, such as SMS control LED on and off.
 
-With the QuectPython-encapsulated interface, remote control of lights can be easily achieved in just a few steps, eliminating the need for traditional manual switching.
+With the QuecPython-encapsulated interface, remote control of lights can be easily achieved in just a few steps, eliminating the need for traditional manual switching.
 
 ## Features
 

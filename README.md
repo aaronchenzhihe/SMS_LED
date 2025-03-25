@@ -2,7 +2,7 @@
 
 
 
-中文 | [English](README EN.md)
+中文 | [English](https://github.com/aaronchenzhihe/SMS_LED/blob/main/README%20EN.md)
 
 欢迎来到 QuecPython 短信控灯方案仓库！本仓库提供了一个专注于LED控制及短信通知功能的开源项目，适用于远程控制和状态报告，提升设备管理效率。
 
@@ -28,7 +28,7 @@
 
 QuecPython 推出了针对 LED灯的远程控制方式，例如短信控制LED亮灭。
 
-通过QuectPython封装的接口，仅需几个步骤就可以轻松实现远程控制灯光，无需进行传统的手动开关。
+通过QuecPython封装的接口，仅需几个步骤就可以轻松实现远程控制灯光，无需进行传统的手动开关。
 
 ## 功能
 
