@@ -103,7 +103,7 @@ solution-LED_SMS/
 
 
 
-![image-20250320095741386](../SMS_LED/docs/media/1.png)
+![image-20250320095741386](./docs/media/1.png)
 
 ## Contribution
 
