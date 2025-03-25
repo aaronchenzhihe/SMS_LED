@@ -2,7 +2,7 @@
 
 
 
-[中文](README.MD) | English
+[中文](README.md) | English
 
 Welcome to the SMS control led  Solution for QuecPython! This warehouse provides an open source project focusing on LED control and SMS notification functions, which is suitable for remote control and status reporting to improve the efficiency of equipment management.
 
@@ -103,7 +103,7 @@ solution-LED_SMS/
 
 
 
-![image-20250320095741386](../LED_SMS/docs/media/1.png)
+![image-20250320095741386](../SMS_LED/docs/media/1.png)
 
 ## Contribution
 
